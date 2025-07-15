@@ -1,4 +1,4 @@
-version: 1.0
+version: 2
 
 # 构建 MkDocs 文档
 mkdocs:
