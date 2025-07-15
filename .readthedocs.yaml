@@ -1,15 +1,24 @@
-site_name: BNBU-FM课程攻略
-theme: readthedocs
-repo_url: https://github.com 
+version: 1.0
 
-nav:
-  - 首页: index.md
-  - 贡献: contribute.md
-  - 收录课程名录: list.md
-  - 致谢: thanks.md
-  - Major Require:
-    - Calculus I: Calculus-I.md
-    - Linear Algebra I: Linear-Algebra-I.md
-    - Principles of Accounting I: Principles-of-Accounting-I.md
-    - Calculus II: Calculus-II.md
-    - Linear Algebra II: Linear-Algebra-II.md
+# 构建 MkDocs 文档
+mkdocs:
+  configuration: mkdocs.yml  # 指定你的 mkdocs 配置文件路径
+  fail_on_warning: false     # 是否在出现警告时使构建失败
+
+# 构建环境配置
+build:
+  os: ubuntu-22.04          # 构建操作系统
+  tools:
+    python: "3.10"          # Python 版本
+
+# Python 依赖项
+python:
+  install:
+    - requirements: docs/requirements.txt  # 指定包含 MkDocs 及其插件的依赖文件
+
+# 可选配置
+formats: []  # 构建输出格式，默认 HTML 不需要指定
+
+# 构建作业配置
+sphinx:
+  configuration: null       # 不使用 Sphinx

@@ -1,0 +1,15 @@
+site_name: BNBU-FM课程攻略
+theme: readthedocs
+repo_url: https://github.com/FM-Course/bnbu-fm-course-sharing 
+
+nav:
+  - 首页: index.md
+  - 贡献: contribute.md
+  - 收录课程名录: list.md
+  - 致谢: thanks.md
+  - Major Require:
+    - Calculus I: Calculus-I.md
+    - Linear Algebra I: Linear-Algebra-I.md
+    - Principles of Accounting I: Principles-of-Accounting-I.md
+    - Calculus II: Calculus-II.md
+    - Linear Algebra II: Linear-Algebra-II.md
