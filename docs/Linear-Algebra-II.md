@@ -1,0 +1,44 @@
+# Linear Algebra II
+## 文件列表
+- 📁 Homework 2023spring/
+    - 📄 HW1.pdf
+    - 📄 HW1s.pdf
+    - 📄 HW2.pdf
+    - 📄 HW2s.pdf
+    - 📄 HW3.pdf
+    - 📄 HW3s.pdf
+    - 📄 HW4.pdf
+    - 📄 HW4s.pdf
+    - 📄 HW5.pdf
+    - 📄 HW5s.pdf
+    - 📄 HW6.pdf
+    - 📄 HW6s.pdf
+    - 📄 HW7.pdf
+    - 📄 HW7_sol.pdf
+    - 📄 HW8.pdf
+    - 📄 HW8s.pdf
+    - 📄 HW9.pdf
+    - 📄 HW9s.pdf
+- 📁 Notes  2023spring/
+    - 📄 Chapter4.pdf
+    - 📄 Chapter5.pdf
+    - 📄 Chapter6.pdf
+    - 📄 Linear Algebra I.pdf.pdf
+    - 📄 Linear Algebra II.pdf.pdf
+    - 📄 Week10_2.pdf
+    - 📄 Week10b.pdf
+    - 📄 Week11.pdf
+    - 📄 Week12.pdf
+    - 📄 Week13-14_2.pdf
+    - 📄 Week15.pdf
+    - 📄 Week4.pdf
+    - 📄 Week5.pdf
+    - 📄 Week6 (Updated).pdf
+    - 📄 Week7.pdf
+    - 📄 Week8a.pdf
+    - 📄 Week8b.pdf
+    - 📄 Week9.pdf
+- 📁 Quizs & Exams  2023spring/
+    - 📄 midterm_LAsol_2023.pdf
+    - 📄 Q34_sol.pdf
+    - 📄 quiz1+2 solution.pdf

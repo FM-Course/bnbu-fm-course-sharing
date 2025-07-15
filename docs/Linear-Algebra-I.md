@@ -1,0 +1,35 @@
+# LInear Algebra I
+## 文件列表
+- 📁 Homework/
+    - 📄 HW1a.pdf
+    - 📄 HW1b.pdf
+    - 📄 HW2.pdf
+    - 📄 HW2b.pdf
+    - 📄 HW3a.pdf
+    - 📄 HW3b.pdf
+    - 📄 HW4a.pdf
+    - 📄 HW4b.pdf
+    - 📄 HW5a.pdf
+    - 📄 HW5b.pdf
+    - 📄 HW7.pdf
+- 📁 Lecture Slides (Update on each section)-20220903/
+    - 📄 LA-Sc11-short.pdf
+    - 📄 LA-Sc12-short.pdf
+    - 📄 LA-Sc13-short.pdf
+    - 📄 LA-Sc14-short.pdf
+    - 📄 LA-Sc15-short (Updated).pdf
+    - 📄 LA-Sc15-short.pdf
+    - 📄 LA-Sc16-short.pdf
+    - 📄 LA-Sc21-short.pdf
+    - 📄 LA-Sc22-short.pdf
+    - 📄 LA-Sc23-short.pdf
+    - 📄 LA-Sc31-short.pdf
+    - 📄 LA-Sc32-short (updated).pdf
+    - 📄 LA-Sc33-short.pdf
+    - 📄 LA-Sc34-short (Updated).pdf
+    - 📄 LA-Sc35-short.pdf
+    - 📄 LA-Sc36-short-1.pdf
+    - 📄 LA-Sc36-short-2.pdf
+- 📄 FM 2022.pdf
+- 📄 introduction-to-matlab-2.pdf
+- 📄 la1 la2单词中英对照清单.pdf

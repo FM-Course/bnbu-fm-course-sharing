@@ -1,0 +1,46 @@
+# Calculus II
+## 文件列表
+- 📁 Assignments 2023spring/
+    - 📄 HW_MATH1083_10.pdf
+    - 📄 HW_MATH1083_10_sol.pdf
+    - 📄 HW_MATH1083_1_1002.pdf
+    - 📄 HW_MATH1083_1_sol.pdf
+    - 📄 HW_MATH1083_2_1002.pdf
+    - 📄 HW_MATH1083_2_sol .pdf
+    - 📄 HW_MATH1083_3_1002.pdf
+    - 📄 HW_MATH1083_3_sol .pdf
+    - 📄 HW_MATH1083_4_1002.pdf
+    - 📄 HW_MATH1083_4_sol.pdf
+    - 📄 HW_MATH1083_5_1002.pdf
+    - 📄 HW_MATH1083_5_sol.pdf
+    - 📄 HW_MATH1083_6_1002.pdf
+    - 📄 HW_MATH1083_6_sol.pdf
+    - 📄 HW_MATH1083_7_1002.pdf
+    - 📄 HW_MATH1083_7_sol.pdf
+    - 📄 HW_MATH1083_8.pdf
+    - 📄 HW_MATH1083_8_sol.pdf
+    - 📄 HW_MATH1083_9.pdf
+    - 📄 HW_MATH1083_9_sol.pdf
+- 📁 Notes 2023spring/
+    - 📄 Notes by Dr Wong.pdf
+    - 📄 Week_10_Calculus_II_Multiple_integrals_1_3.pdf
+    - 📄 Week_11_Calculus_II_Multiple_integrals_2.pdf
+    - 📄 Week_1_Calculus_II.pdf
+    - 📄 Week_2_Calculus_II.pdf
+    - 📄 Week_3_Calculus_II.pdf
+    - 📄 Week_4_Calculus_II.pdf
+    - 📄 Week_5_Calculus_II.pdf
+    - 📄 Week_6_Calculus_II.pdf
+    - 📄 Week_7_Calculus_II.pdf
+    - 📄 Week_8_Calculus_II_Partial_derivatives.pdf
+    - 📄 Week_9_Calculus_II_Partial_derivatives_2.pdf
+- 📁 Quizs and Exams 2023spring/
+    - 📄 Mid_term_Math1038_sol_s.pdf
+    - 📄 Quiz1_solution_s.pdf
+    - 📄 Quiz2_solution_s.pdf
+- 📁 Study Materials provided by Monica/
+    - 📄 Cal vector例题.pdf
+    - 📄 Extra exercise with solutions for calculus 2.docx
+- 📄 Cal2 Vector by TA 2023spring.pdf
+- 📄 Calculus_II_Revision.pdf
+- 📄 Proof of Taylor theorem.pdf

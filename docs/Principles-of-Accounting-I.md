@@ -1,0 +1,24 @@
+# Principles of Accounting
+## 文件列表
+- 📁 Assignment  2023spring/
+    - 📁 Assignment 1/
+        - 📄 POAI Assignment 1 Answer .docx
+        - 📄 POAI Assignment-1_Questions_Finalized.pdf
+    - 📁 Assignment 2/
+        - 📄 POAI Assignment-2_Questions_Finalized.docx
+        - 📄 POAI Assignment-2_Solution_2.pdf
+    - 📁 Assignment 3/
+        - 📄 POAI Assignment-3_ Solution.pdf
+        - 📄 POAI Assignment-3_Questions_Finalized.docx
+- 📁 Slides  2023spring/
+    - 📄 Ch 1 Accounting in Business_Ver1.pdf
+    - 📄 Ch 10 Long-Term Assets_version 1_20230507145304.pdf
+    - 📄 Ch 11 Current Liabilities and Payroll Accounting_final version.pdf
+    - 📄 Ch 2 Analyzing and Recording Transactions_final version.pdf
+    - 📄 Ch 3 Adjusting Accounts_Ver1.pdf
+    - 📄 Ch 4 Completing the Accounting Cycle_Ver1.pdf
+    - 📄 Ch 5 Accounting for Merchandising Operations_Ver1.pdf
+    - 📄 Ch 6 Inventories and Cost of Sales_Ver1_20230404204743.pdf
+    - 📄 Ch 8 Cash, Fraud, and Internal Control_final version_20230507145208.pdf
+    - 📄 Ch 9 Accounting for Receivables_20230507145238.pdf
+- 📄 ACCT2003 ‐ Information on Final Exam_ Sem 2, 2022-23_V.pdf
