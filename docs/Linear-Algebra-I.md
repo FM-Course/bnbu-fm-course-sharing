@@ -1,35 +1,35 @@
 # LInear Algebra I
 ## 文件列表
 - 📁 Homework/
-    - 📄 HW1a.pdf
-    - 📄 HW1b.pdf
-    - 📄 HW2.pdf
-    - 📄 HW2b.pdf
-    - 📄 HW3a.pdf
-    - 📄 HW3b.pdf
-    - 📄 HW4a.pdf
-    - 📄 HW4b.pdf
-    - 📄 HW5a.pdf
-    - 📄 HW5b.pdf
-    - 📄 HW7.pdf
+    - 📄 [HW1a.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW1a.pdf)
+    - 📄 [HW1b.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW1b.pdf)
+    - 📄 [HW2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW2.pdf)
+    - 📄 [HW2b.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW2b.pdf)
+    - 📄 [HW3a.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW3a.pdf)
+    - 📄 [HW3b.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW3b.pdf)
+    - 📄 [HW4a.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW4a.pdf)
+    - 📄 [HW4b.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW4b.pdf)
+    - 📄 [HW5a.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW5a.pdf)
+    - 📄 [HW5b.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW5b.pdf)
+    - 📄 [HW7.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Homework/HW7.pdf)
 - 📁 Lecture Slides (Update on each section)-20220903/
-    - 📄 LA-Sc11-short.pdf
-    - 📄 LA-Sc12-short.pdf
-    - 📄 LA-Sc13-short.pdf
-    - 📄 LA-Sc14-short.pdf
-    - 📄 LA-Sc15-short (Updated).pdf
-    - 📄 LA-Sc15-short.pdf
-    - 📄 LA-Sc16-short.pdf
-    - 📄 LA-Sc21-short.pdf
-    - 📄 LA-Sc22-short.pdf
-    - 📄 LA-Sc23-short.pdf
-    - 📄 LA-Sc31-short.pdf
-    - 📄 LA-Sc32-short (updated).pdf
-    - 📄 LA-Sc33-short.pdf
-    - 📄 LA-Sc34-short (Updated).pdf
-    - 📄 LA-Sc35-short.pdf
-    - 📄 LA-Sc36-short-1.pdf
-    - 📄 LA-Sc36-short-2.pdf
-- 📄 FM 2022.pdf
-- 📄 introduction-to-matlab-2.pdf
-- 📄 la1 la2单词中英对照清单.pdf
+    - 📄 [LA-Sc11-short.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc11-short.pdf)
+    - 📄 [LA-Sc12-short.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc12-short.pdf)
+    - 📄 [LA-Sc13-short.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc13-short.pdf)
+    - 📄 [LA-Sc14-short.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc14-short.pdf)
+    - 📄 [LA-Sc15-short (Updated).pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc15-short%20(Updated).pdf)
+    - 📄 [LA-Sc15-short.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc15-short.pdf)
+    - 📄 [LA-Sc16-short.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc16-short.pdf)
+    - 📄 [LA-Sc21-short.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc21-short.pdf)
+    - 📄 [LA-Sc22-short.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc22-short.pdf)
+    - 📄 [LA-Sc23-short.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc23-short.pdf)
+    - 📄 [LA-Sc31-short.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc31-short.pdf)
+    - 📄 [LA-Sc32-short (updated).pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc32-short%20(updated).pdf)
+    - 📄 [LA-Sc33-short.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc33-short.pdf)
+    - 📄 [LA-Sc34-short (Updated).pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc34-short%20(Updated).pdf)
+    - 📄 [LA-Sc35-short.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc35-short.pdf)
+    - 📄 [LA-Sc36-short-1.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc36-short-1.pdf)
+    - 📄 [LA-Sc36-short-2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/Lecture%20Slides%20(Update%20on%20each%20section)-20220903/LA-Sc36-short-2.pdf)
+- 📄 [FM 2022.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/FM%202022.pdf)
+- 📄 [introduction-to-matlab-2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/introduction-to-matlab-2.pdf)
+- 📄 [la1 la2单词中英对照清单.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Linear%20Algebra%20I/la1%20la2单词中英对照清单.pdf)

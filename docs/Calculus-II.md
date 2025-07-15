@@ -1,46 +1,46 @@
 # Calculus II
 ## 文件列表
 - 📁 Assignments 2023spring/
-    - 📄 HW_MATH1083_10.pdf
-    - 📄 HW_MATH1083_10_sol.pdf
-    - 📄 HW_MATH1083_1_1002.pdf
-    - 📄 HW_MATH1083_1_sol.pdf
-    - 📄 HW_MATH1083_2_1002.pdf
-    - 📄 HW_MATH1083_2_sol .pdf
-    - 📄 HW_MATH1083_3_1002.pdf
-    - 📄 HW_MATH1083_3_sol .pdf
-    - 📄 HW_MATH1083_4_1002.pdf
-    - 📄 HW_MATH1083_4_sol.pdf
-    - 📄 HW_MATH1083_5_1002.pdf
-    - 📄 HW_MATH1083_5_sol.pdf
-    - 📄 HW_MATH1083_6_1002.pdf
-    - 📄 HW_MATH1083_6_sol.pdf
-    - 📄 HW_MATH1083_7_1002.pdf
-    - 📄 HW_MATH1083_7_sol.pdf
-    - 📄 HW_MATH1083_8.pdf
-    - 📄 HW_MATH1083_8_sol.pdf
-    - 📄 HW_MATH1083_9.pdf
-    - 📄 HW_MATH1083_9_sol.pdf
+    - 📄 [HW_MATH1083_10.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_10.pdf)
+    - 📄 [HW_MATH1083_10_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_10_sol.pdf)
+    - 📄 [HW_MATH1083_1_1002.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_1_1002.pdf)
+    - 📄 [HW_MATH1083_1_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_1_sol.pdf)
+    - 📄 [HW_MATH1083_2_1002.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_2_1002.pdf)
+    - 📄 [HW_MATH1083_2_sol .pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_2_sol%20.pdf)
+    - 📄 [HW_MATH1083_3_1002.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_3_1002.pdf)
+    - 📄 [HW_MATH1083_3_sol .pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_3_sol%20.pdf)
+    - 📄 [HW_MATH1083_4_1002.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_4_1002.pdf)
+    - 📄 [HW_MATH1083_4_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_4_sol.pdf)
+    - 📄 [HW_MATH1083_5_1002.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_5_1002.pdf)
+    - 📄 [HW_MATH1083_5_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_5_sol.pdf)
+    - 📄 [HW_MATH1083_6_1002.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_6_1002.pdf)
+    - 📄 [HW_MATH1083_6_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_6_sol.pdf)
+    - 📄 [HW_MATH1083_7_1002.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_7_1002.pdf)
+    - 📄 [HW_MATH1083_7_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_7_sol.pdf)
+    - 📄 [HW_MATH1083_8.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_8.pdf)
+    - 📄 [HW_MATH1083_8_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_8_sol.pdf)
+    - 📄 [HW_MATH1083_9.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_9.pdf)
+    - 📄 [HW_MATH1083_9_sol.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Assignments%202023spring/HW_MATH1083_9_sol.pdf)
 - 📁 Notes 2023spring/
-    - 📄 Notes by Dr Wong.pdf
-    - 📄 Week_10_Calculus_II_Multiple_integrals_1_3.pdf
-    - 📄 Week_11_Calculus_II_Multiple_integrals_2.pdf
-    - 📄 Week_1_Calculus_II.pdf
-    - 📄 Week_2_Calculus_II.pdf
-    - 📄 Week_3_Calculus_II.pdf
-    - 📄 Week_4_Calculus_II.pdf
-    - 📄 Week_5_Calculus_II.pdf
-    - 📄 Week_6_Calculus_II.pdf
-    - 📄 Week_7_Calculus_II.pdf
-    - 📄 Week_8_Calculus_II_Partial_derivatives.pdf
-    - 📄 Week_9_Calculus_II_Partial_derivatives_2.pdf
+    - 📄 [Notes by Dr Wong.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Notes%202023spring/Notes%20by%20Dr%20Wong.pdf)
+    - 📄 [Week_10_Calculus_II_Multiple_integrals_1_3.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Notes%202023spring/Week_10_Calculus_II_Multiple_integrals_1_3.pdf)
+    - 📄 [Week_11_Calculus_II_Multiple_integrals_2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Notes%202023spring/Week_11_Calculus_II_Multiple_integrals_2.pdf)
+    - 📄 [Week_1_Calculus_II.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Notes%202023spring/Week_1_Calculus_II.pdf)
+    - 📄 [Week_2_Calculus_II.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Notes%202023spring/Week_2_Calculus_II.pdf)
+    - 📄 [Week_3_Calculus_II.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Notes%202023spring/Week_3_Calculus_II.pdf)
+    - 📄 [Week_4_Calculus_II.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Notes%202023spring/Week_4_Calculus_II.pdf)
+    - 📄 [Week_5_Calculus_II.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Notes%202023spring/Week_5_Calculus_II.pdf)
+    - 📄 [Week_6_Calculus_II.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Notes%202023spring/Week_6_Calculus_II.pdf)
+    - 📄 [Week_7_Calculus_II.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Notes%202023spring/Week_7_Calculus_II.pdf)
+    - 📄 [Week_8_Calculus_II_Partial_derivatives.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Notes%202023spring/Week_8_Calculus_II_Partial_derivatives.pdf)
+    - 📄 [Week_9_Calculus_II_Partial_derivatives_2.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Notes%202023spring/Week_9_Calculus_II_Partial_derivatives_2.pdf)
 - 📁 Quizs and Exams 2023spring/
-    - 📄 Mid_term_Math1038_sol_s.pdf
-    - 📄 Quiz1_solution_s.pdf
-    - 📄 Quiz2_solution_s.pdf
+    - 📄 [Mid_term_Math1038_sol_s.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Quizs%20and%20Exams%202023spring/Mid_term_Math1038_sol_s.pdf)
+    - 📄 [Quiz1_solution_s.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Quizs%20and%20Exams%202023spring/Quiz1_solution_s.pdf)
+    - 📄 [Quiz2_solution_s.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Quizs%20and%20Exams%202023spring/Quiz2_solution_s.pdf)
 - 📁 Study Materials provided by Monica/
-    - 📄 Cal vector例题.pdf
-    - 📄 Extra exercise with solutions for calculus 2.docx
-- 📄 Cal2 Vector by TA 2023spring.pdf
-- 📄 Calculus_II_Revision.pdf
-- 📄 Proof of Taylor theorem.pdf
+    - 📄 [Cal vector例题.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Study%20Materials%20provided%20by%20Monica/Cal%20vector例题.pdf)
+    - 📄 [Extra exercise with solutions for calculus 2.docx](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Study%20Materials%20provided%20by%20Monica/Extra%20exercise%20with%20solutions%20for%20calculus%202.docx)
+- 📄 [Cal2 Vector by TA 2023spring.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Cal2%20Vector%20by%20TA%202023spring.pdf)
+- 📄 [Calculus_II_Revision.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Calculus_II_Revision.pdf)
+- 📄 [Proof of Taylor theorem.pdf](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/Calculus%20II/Proof%20of%20Taylor%20theorem.pdf)

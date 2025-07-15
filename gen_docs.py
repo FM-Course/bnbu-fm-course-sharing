@@ -67,7 +67,8 @@ def readme_process():
                 items.extend(generate_recursive_file_list(item, base_path, indent_level + 1))
             else:
                 # 处理文件
-                items.append(f"{indent}- 📄 {item.name}")
+                relatedDIR = str(item.relative_to(current_dir)).replace(' ', '%20').replace('\\','/')
+                items.append(f"{indent}- 📄 [{item.name}](https://github.com/FM-Course/bnbu-fm-course-sharing/blob/master/{relatedDIR})")
         
         # 如果是顶级目录且没有内容，添加提示
         if indent_level == 0 and not items:
