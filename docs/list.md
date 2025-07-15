@@ -5,6 +5,7 @@
 - Principles of Accounting I
 - Calculus II
 - Linear Algebra II
+- C++ Programming Language
 ## Major Elective
 ## Free Elective
 ## General Education
