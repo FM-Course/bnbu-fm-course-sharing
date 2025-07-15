@@ -19,6 +19,3 @@ python:
 # 可选配置
 formats: []  # 构建输出格式，默认 HTML 不需要指定
 
-# 构建作业配置
-sphinx:
-  configuration: null       # 不使用 Sphinx
