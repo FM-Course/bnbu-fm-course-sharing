@@ -11,6 +11,15 @@
 - Probability Theory
 - Mathematical Statistics
 - Data Structure
+- Advanced Financial Mathematics
+- Applied Stochastic Process
+- Financial Mathematics
+- Introduction to Econometrics
+- Investments
+- Macroeconomics
+- Microeconomics
+- Risk Management in Finance
+- Time Series for Finance and Macroeconomics
 ## Major Elective
 ## Free Elective
 ## General Education
