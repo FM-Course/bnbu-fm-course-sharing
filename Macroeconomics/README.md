@@ -1,0 +1,40 @@
+# Macroeconomics
+
+## 文件列表
+- 📁 Exercise/
+    - 📄 Chapter 10 Exercises.pdf
+    - 📄 Chapter 10 Exercises_Sol.pdf
+    - 📄 Chapter 11 Exercises.pdf
+    - 📄 Chapter 11 Exercises_Sol.pdf
+    - 📄 Chapter 12 Exercises.pdf
+    - 📄 Chapter 12 Exercises_Sol.pdf
+    - 📄 Chapter 2 Exercises.pdf
+    - 📄 Chapter 2 Exercises_Sol.pdf
+    - 📄 Chapter 3 Exercises.pdf
+    - 📄 Chapter 3 Exercises_Sol.pdf
+    - 📄 Chapter 4 Exercises (1).pdf
+    - 📄 Chapter 4 Exercises_Sol.pdf
+    - 📄 Chapter 5 Exercises.pdf
+    - 📄 Chapter 5 Exercises_Sol.pdf
+    - 📄 Chapter 6 Exercises.pdf
+    - 📄 Chapter 6 Exercises_Sol.pdf
+    - 📄 Chapter 7 Exercises.pdf
+    - 📄 Chapter 7 Exercises_Sol.pdf
+    - 📄 Chapter 8 Exercises.pdf
+    - 📄 Chapter 8 Exercises_Sol.pdf
+    - 📄 Chapter 9 Exercises.pdf
+    - 📄 Chapter 9 Exercises_Sol.pdf
+- 📁 notes/
+    - 📄 IPPTChap001.pdf
+    - 📄 IPPTChap002.pdf
+    - 📄 IPPTChap003.pdf
+    - 📄 IPPTChap004.pdf
+    - 📄 IPPTChap005.pdf
+    - 📄 IPPTChap006.pdf
+    - 📄 IPPTChap007.pdf
+    - 📄 IPPTChap009.pdf
+    - 📄 IPPTChap010.pdf
+    - 📄 IPPTChap011.pdf
+    - 📄 IPPTChap016.pdf
+    - 📄 IPPTChap017.pdf
+- 📄 L1_ECON2113_T.Zhi v.1.0.pdf
